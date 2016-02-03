@@ -393,4 +393,13 @@ C:\Users\{USER-NAME}\AppData\Roaming\FileZilla
 ```
 
 
-
+# Filezilla Filetype associations
+Open FileZilla > Edit Menu > Settings..
+Select File editing > Filetype associations
+Paste the following code
+```html
+. "C:\Program Files (x86)\Notepad++\notepad++.exe"
+php "C:\Program Files (x86)\Notepad++\notepad++.exe"
+/ "C:\Program Files (x86)\Notepad++\notepad++.exe"
+html "C:\Program Files (x86)\Notepad++\notepad++.exe"
+```
