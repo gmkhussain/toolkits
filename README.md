@@ -403,3 +403,29 @@ php "C:\Program Files (x86)\Notepad++\notepad++.exe"
 / "C:\Program Files (x86)\Notepad++\notepad++.exe"
 html "C:\Program Files (x86)\Notepad++\notepad++.exe"
 ```
+
+
+https://wordpress.org/plugins/woocommerce-template-hints/screenshots/
+
+
+
+
+
+#Custom progress bar - Shortcodes
+```html
+[progressbar_simple]
+
+[progressbar_striped width="78" color="#ddd" bg_color="#1582cf" text="78% completed"]
+
+[progressbar_striped class="active" width="75" text="75% In PHP" bg_color="#e43573"]
+
+[pregressbar_multicolor]
+
+[pregressbar_multicolor width="90" bg_color_1="#ec13b7" bg_color_2="#cd60b2" bg_color_3="#ed99d8" text_1="90%"]
+
+[progressbar width="60" color="#000" bg_color="#aaa"]
+
+[progressbar_striped width="25" color="#ddd" bg_color="#000"]
+
+[progressbar_striped width="25" color="#ddd" text="25% completed"]
+```
