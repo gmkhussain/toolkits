@@ -375,7 +375,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 
 
 
-#Temp folders
+# Temp folders
 ```html
 C:\Windows\Temp
 C:\Users\{USER-NAME}\AppData\Roaming\IDM\DwnlData\{USER-NAME}
@@ -411,7 +411,7 @@ https://wordpress.org/plugins/woocommerce-template-hints/screenshots/
 
 
 
-#Custom progress bar - Shortcodes
+# Custom progress bar - Shortcodes
 ```html
 [progressbar_simple]
 
